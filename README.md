@@ -6,4 +6,7 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 
 ## Designed For
 
-. Developers debugging API responses and config files
+- Developers debugging API responses and config files.
+- Building internal tooling for engineering teams.
+- Converting JSON payloads across data formats.
+- Sharing structured data without third-party accounts.
