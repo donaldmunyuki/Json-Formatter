@@ -6,4 +6,4 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 
 ## Designed For
 
-. Developers debugging API responses and config files
+- Developers debugging API responses and config files
