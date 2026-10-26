@@ -17,3 +17,4 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 - One-click minification: Strips all whitespace and shows a live byte-reduction stat so you know exactly how much smaller the output is before you copy it.
 - Caret-style validation: Parses your JSON and pinpoints errors with line, column, and expected-token detail. Click "Jump to line" and the editor scrolls to the problem.
 - XML, CSV, and YAML conversion: Switch tabs to convert JSON into XML, YAML, or CSV without installing separate tools. Download each format with the correct file extension.
+- URL-hash document sharing: Compresses the document into the URL with lz-string. Send the link and the recipient sees the exact JSON, no account or backend required.
