@@ -12,3 +12,5 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 - Sharing structured data without third-party accounts.
 
 ## Features & capabilities
+
+- Pretty-print formatting: Re-prints JSON from the token stream at 2, 3, or 4-space indent. Preserves 64-bit integers verbatim so numeric precision is never silently lost.
