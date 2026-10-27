@@ -21,3 +21,4 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 - localStorage autosave: Every keystroke saves your document to the browser. Close the tab, come back later, and your work is exactly where you left it.
 - File upload and download: Upload a local JSON file via drag or file picker. Download any output tab as .json, .xml, .csv, .yaml, or .txt with deterministic filenames.
 - CodeMirror 6 editor: Full syntax highlighting, line numbers, bracket matching, and undo history powered by CodeMirror 6. Feels like a real IDE, runs in the browser.
+- Client-only privacy:
