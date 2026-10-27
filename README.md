@@ -18,3 +18,4 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 - Caret-style validation: Parses your JSON and pinpoints errors with line, column, and expected-token detail. Click "Jump to line" and the editor scrolls to the problem.
 - XML, CSV, and YAML conversion: Switch tabs to convert JSON into XML, YAML, or CSV without installing separate tools. Download each format with the correct file extension.
 - URL-hash document sharing: Compresses the document into the URL with lz-string. Send the link and the recipient sees the exact JSON, no account or backend required.
+- localStorage autosave: Every keystroke saves your document to the browser. Close the tab, come back later, and your work is exactly where you left it.
