@@ -26,3 +26,5 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 ## About Json Formatter
 
 ### Debugging API Responses
+
+Paste a raw API response into the editor and click Format to see the structure clearly. When something looks wrong, hit Validate: the Problems tab shows you the exact line, column, and expected token. Click "Jump to line" and the editor scrolls right to the error. You go from "something broke" to "found it" in seconds, not minutes.
