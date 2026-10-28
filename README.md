@@ -22,3 +22,7 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 - File upload and download: Upload a local JSON file via drag or file picker. Download any output tab as .json, .xml, .csv, .yaml, or .txt with deterministic filenames.
 - CodeMirror 6 editor: Full syntax highlighting, line numbers, bracket matching, and undo history powered by CodeMirror 6. Feels like a real IDE, runs in the browser.
 - Client-only privacy: No data leaves your browser. No server, no analytics, no tracking. The tool runs entirely on the client with zero network requests at runtime.
+
+## About Json Formatter
+
+### Debugging API Responses
