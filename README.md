@@ -1,5 +1,4 @@
 # Json Formatter
-
 A browser-based JSON formatter that parses, pretty-prints, minifies, validates, and converts your JSON to XML, CSV, or YAML. Paste your data, get results in one click, share via URL.
 
 ![Json Formatter](json-formatter.png)
@@ -26,11 +25,10 @@ A browser-based JSON formatter that parses, pretty-prints, minifies, validates, 
 ## About Json Formatter
 
 ### Debugging API Responses
-
 Paste a raw API response into the editor and click Format to see the structure clearly. When something looks wrong, hit Validate: the Problems tab shows you the exact line, column, and expected token. Click "Jump to line" and the editor scrolls right to the error. You go from "something broke" to "found it" in seconds, not minutes.
 
 ### Preparing Config Files
-
 Teams passing JSON configs between services need consistent formatting. Set your indent width, click Format, and download the result. The token-stream re-printer preserves 64-bit integers verbatim, so numeric precision is never silently lost. Hand the file to a colleague or commit it to version control with confidence.
 
 ### Converting Between Data Formats
+Switch to the XML, YAML, or CSV tab to convert your JSON without installing a separate tool. CSV flattens arrays of objects into rows with dot-notation headers. YAML and XML conversions handle escaping and quoting automatically. Download the output with the correct file extension and move on.
