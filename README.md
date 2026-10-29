@@ -32,3 +32,5 @@ Paste a raw API response into the editor and click Format to see the structure c
 ### Preparing Config Files
 
 Teams passing JSON configs between services need consistent formatting. Set your indent width, click Format, and download the result. The token-stream re-printer preserves 64-bit integers verbatim, so numeric precision is never silently lost. Hand the file to a colleague or commit it to version control with confidence.
+
+### Converting Between Data Formats
