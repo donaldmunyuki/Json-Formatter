@@ -32,3 +32,5 @@ Teams passing JSON configs between services need consistent formatting. Set your
 
 ### Converting Between Data Formats
 Switch to the XML, YAML, or CSV tab to convert your JSON without installing a separate tool. CSV flattens arrays of objects into rows with dot-notation headers. YAML and XML conversions handle escaping and quoting automatically. Download the output with the correct file extension and move on.
+
+### Sharing JSON Snippets With Your Team
