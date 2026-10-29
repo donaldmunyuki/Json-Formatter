@@ -34,3 +34,4 @@ Teams passing JSON configs between services need consistent formatting. Set your
 Switch to the XML, YAML, or CSV tab to convert your JSON without installing a separate tool. CSV flattens arrays of objects into rows with dot-notation headers. YAML and XML conversions handle escaping and quoting automatically. Download the output with the correct file extension and move on.
 
 ### Sharing JSON Snippets With Your Team
+Click Share and the entire document compresses into the URL. Send that link in Slack, paste it in a GitHub issue, or bookmark it. The recipient opens it and sees the exact document you shared, no account required. For documents over 50 KB encoded, the tool tells you to download instead.
