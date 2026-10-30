@@ -37,4 +37,5 @@ Switch to the XML, YAML, or CSV tab to convert your JSON without installing a se
 Click Share and the entire document compresses into the URL. Send that link in Slack, paste it in a GitHub issue, or bookmark it. The recipient opens it and sees the exact document you shared, no account required. For documents over 50 KB encoded, the tool tells you to download instead.
 
 ## Updates
-- Offline Pre-caching:
+### Offline Pre-caching
+- Enable zero-network operation:
