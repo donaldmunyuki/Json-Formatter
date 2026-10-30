@@ -39,3 +39,5 @@ Click Share and the entire document compresses into the URL. Send that link in S
 ## Updates
 ### Offline Pre-caching
 - Enable zero-network operation: since all JSON parsing, validation, formatting, minification, and conversions (CSV, XML, YAML) run client-side, the entire tool suite will work seamlessly without an internet connection.
+
+###  Offline UX & Connectivity Detection
