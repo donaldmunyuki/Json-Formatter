@@ -42,3 +42,4 @@ Click Share and the entire document compresses into the URL. Send that link in S
 
 ###  Offline UX & Connectivity Detection
 - Added a real-time network listener for showing an "Offline mode" status badge when disconnected and prompt when back online.
+- Persist editor drafts and settings to local storage so work is preserved when opening or reloading the app offline.
