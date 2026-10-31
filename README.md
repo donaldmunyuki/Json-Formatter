@@ -47,3 +47,5 @@ Click Share and the entire document compresses into the URL. Send that link in S
 ### Added install and offline info to Terms, Privacy, FAQs and Docs
 - Docs page: Add an Offline & PWA guide covering standalone installation on desktop and mobile (Chrome, Edge, Safari iOS, Android), how the service worker pre-caches assets, and how offline validation, formatting, and conversions work without an internet connection.
 - FAQs page: Add dedicated Q&As addressing offline availability, how to install as a standalone desktop or home screen app, and how local data persistence behaves without connectivity.
+- Privacy page: Add a PWA & Offline Cache section detailing how the Cache API and Service Worker store app assets on-device, confirming zero offline telemetry, tracking, or background syncing.
+  
