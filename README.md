@@ -45,3 +45,4 @@ Click Share and the entire document compresses into the URL. Send that link in S
 - Persist editor drafts and settings to local storage so work is preserved when opening or reloading the app offline.
 
 ### Added install and offline info to Terms, Privacy, FAQs and Docs
+- Docs page: Add an Offline & PWA guide covering standalone installation on desktop and mobile (Chrome, Edge, Safari iOS, Android), how the service worker pre-caches assets, and how offline validation, formatting, and conversions work without an internet connection.
