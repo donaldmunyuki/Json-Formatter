@@ -49,3 +49,14 @@ Click Share and the entire document compresses into the URL. Send that link in S
 - FAQs page: Add dedicated Q&As addressing offline availability, how to install as a standalone desktop or home screen app, and how local data persistence behaves without connectivity.
 - Privacy page: Add a PWA & Offline Cache section detailing how the Cache API and Service Worker store app assets on-device, confirming zero offline telemetry, tracking, or background syncing.
 - Terms page: Add a clause covering standalone PWA installation, offline availability, and local cache lifecycle.
+
+## Development
+
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
